@@ -1,4 +1,4 @@
-arduino-caravelle-kitchen
+arduino-caravelle
 =========================
 
 kitchen.ino
